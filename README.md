@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tejindrakhatri
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Jenkins, Kubernetes
+- Working on to get AWS Cloud Practitioner Certification.
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me @tejkcp ( twitter)
 
